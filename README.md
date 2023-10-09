@@ -44,4 +44,4 @@ This project is open-source and follows the [License Name] license. Please refer
 
 We hope you find this project informative and valuable for your wine quality classification tasks. Happy coding and wine tasting!
 
-![GitHub Project Screenshot](link_to_project_screenshot.png)
+
