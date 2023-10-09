@@ -1,7 +1,6 @@
 Title: Wine Quality Classification Using Naive Bayes Classifier
 
-Description:
-GitHub Repository: [Link to Your Repository]
+
 
 Overview:
 Welcome to the "Classification of Wine Quality" project repository! This machine learning project employs a Naive Bayes classifier to predict the quality of wines based on a set of essential chemical parameters. 
